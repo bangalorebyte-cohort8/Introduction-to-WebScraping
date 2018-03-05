@@ -10,4 +10,12 @@ Using this webpage http://quotes.wsj.com/, scrape the stock data for the followi
 
 You need to scrape 5 data points from each page. They are in the image below. Please use the column names given in the  image and write these data points to a CSV (use the CSV python package). 
 
+There should be 6 columns to your CSV:
+1) Stock Name
+2) Current Price
+3) Timestamp
+4) Opening Price
+5) Closing Price
+6) Price change 
+
 ![alt text](https://github.com/bangalorebyte-cohort7/Introduction-to-WebScraping/blob/master/Screen%20Shot%202018-01-16%20at%204.41.18%20pm.png)
